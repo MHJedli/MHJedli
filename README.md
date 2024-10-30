@@ -45,6 +45,8 @@ I am a Student in the Software Engineering Domain
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHJedli&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHJedli&theme=dark&background=000000)](https://git.io/streak-stats) -->
+![MHJedli's Stats](https://github-readme-stats.vercel.app/api?username=MHJedli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHJedli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHJedli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHJedli&theme=vue-dark&hide_progress=true)
